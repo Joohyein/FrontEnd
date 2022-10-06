@@ -68,7 +68,6 @@ Planit에서 To-do를 완료하고 행성을 키워보세요!
 <hr/>
 
 ## 💻 Stack
-
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -98,6 +97,7 @@ Planit에서 To-do를 완료하고 행성을 키워보세요!
 <br/>
 
 <hr/>
+
 ## :santa: Architecture
 
 ![Planit 아키텍쳐](https://user-images.githubusercontent.com/81502140/193481909-30765c17-2a8e-419c-bcfa-bea8736ebd18.png)
@@ -115,6 +115,7 @@ Planit에서 To-do를 완료하고 행성을 키워보세요!
 <br/>
 
 <hr/>
+
 ## 💥 Troubleshooting
 
 - 상위 Header 재사용으로 인해 navigate redirect 문제 [상세보기 - WIKI 이동](https://github.com/hanghae-w8-t4-plan-it/frontend/wiki/%EC%83%81%EC%9C%84-Header-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%B4-navigate-redirect-%EB%AC%B8%EC%A0%9C)
