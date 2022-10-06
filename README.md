@@ -13,7 +13,7 @@ PLANIT은 계획을 뜻하는 PLAN 과 행성을 뜻하는 PLANET의 뜻을 포�
 [Front-End Repo 링크](https://github.com/hanghae-w8-t4-plan-it/frontend)  
 [Back-End Repo 링크](https://github.com/hanghae-w8-t4-plan-it/backend)  
 [Notion 링크](https://www.notion.so/4-d8656c9684f5477c917a81a0747e5144)  
-[소개 영상](예정)
+[소개 영상](https://www.youtube.com/watch?v=8ikAWRX9HXk)
 
 ## 🎬 프로젝트 소개
 
