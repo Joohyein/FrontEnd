@@ -21,7 +21,7 @@ function App() {
   const [dateValue, setDateValue] = useState(new Date());
 
   // Var ; A Parsed date in format yyyy-mm-dd from the calendar
-  var parsedFullApiDate = `${dateValue.getFullYear()}-${String(
+  let parsedFullApiDate = `${dateValue.getFullYear()}-${String(
     dateValue.getMonth() + 1
   ).padStart(2, "0")}-${String(dateValue.getDate()).padStart(2, "0")}`;
 
