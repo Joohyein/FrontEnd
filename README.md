@@ -7,14 +7,6 @@
 
 PLANIT은 계획을 뜻하는 PLAN 과 행성을 뜻하는 PLANET의 뜻을 포함한 이름으로, 목표를 계획하고 달성하는 기쁨을 줄 수 있도록 도와주는 서비스
 
-## 📌 링크
-
-[Planit 링크](https://planit-todo.com)  
-[Front-End Repo 링크](https://github.com/hanghae-w8-t4-plan-it/frontend)  
-[Back-End Repo 링크](https://github.com/hanghae-w8-t4-plan-it/backend)  
-[Notion 링크](https://www.notion.so/4-d8656c9684f5477c917a81a0747e5144)  
-[소개 영상](https://www.youtube.com/watch?v=8ikAWRX9HXk)
-
 ## 🎬 프로젝트 소개
 
 우리는 하루에도 수 많은 일들을 합니다.<br>
@@ -66,6 +58,14 @@ Planit에서 To-do를 완료하고 행성을 키워보세요!
 - 오래 집중한 순위
 
 <hr/>
+
+## 📌 링크
+
+[Planit 링크](https://planit-todo.com)  
+[Front-End Repo 링크](https://github.com/hanghae-w8-t4-plan-it/frontend)  
+[Back-End Repo 링크](https://github.com/hanghae-w8-t4-plan-it/backend)  
+[Notion 링크](https://www.notion.so/4-d8656c9684f5477c917a81a0747e5144)  
+[소개 영상](https://www.youtube.com/watch?v=8ikAWRX9HXk)
 
 ## 💻 Stack
 <div>
