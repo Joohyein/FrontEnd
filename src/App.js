@@ -26,20 +26,20 @@ function App() {
   ).padStart(2, "0")}-${String(dateValue.getDate()).padStart(2, "0")}`;
 
   // Var ; A Parsed date in format yyyy-mm from the calendar
-  var parsedMonthApiDate = `${dateValue.getFullYear()}-${String(
+  let parsedMonthApiDate = `${dateValue.getFullYear()}-${String(
     dateValue.getMonth() + 1
   ).padStart(2, "0")}`;
 
   // Var : A Parsed date in format mm월 dd일 from the calendar
-  var parsedDayDate = `${String(dateValue.getMonth() + 1).padStart(2, "0")}월 ${String(
+  let parsedDayDate = `${String(dateValue.getMonth() + 1).padStart(2, "0")}월 ${String(
     dateValue.getDate()
   ).padStart(2, "0")}일`;
 
   // Var : A Parsed date in format yyyy월 mm월 from the calendar
-  var parsedMonthDate = `${dateValue.getFullYear()} ${String(dateValue.getMonth() + 1).padStart(2, "0")}월`;
+  let parsedMonthDate = `${dateValue.getFullYear()} ${String(dateValue.getMonth() + 1).padStart(2, "0")}월`;
 
   // Var : A Parsed date in format yyyy월 from the calendar
-  var parsedYearDate = `${dateValue.getFullYear()}`;
+  let parsedYearDate = `${dateValue.getFullYear()}`;
 
   // Getting a week of month from a given monday date
   // This source code is from https://falsy.me/javascript-입력한-날짜의-해당-달-기준-주차-구하기/
